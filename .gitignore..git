@@ -1,0 +1,17 @@
+# Ignore docs files
+.DS_Store
+
+node_modules
+new-homepage/node_modules/
+*/node_modules/
+*/node_modules/*
+
+*.css.map
+
+### Sass ###
+.sass-cache
+.sass-cache/
+styles/.sass-cache
+styles/.sass-cache/* 
+
+

@@ -1,0 +1,53 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66.9 25.9">
+  <defs>
+    <clipPath id="clip-path">
+      <path d="M19.3,11.9a7,7,0,1,1-7-7,7,7,0,0,1,7,7" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect x="5.3" y="4.9" width="14" height="14" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path d="M12.3,13.2l5.9-5A7,7,0,0,0,8.4,6.1l3.9,3.3v3.8" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect x="7" y="2.7" width="12.8" height="12.82" transform="translate(-2.5 12.1) rotate(-45)" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect x="0.5" y="-3.8" width="25.6" height="25.64" transform="translate(-2.5 12.1) rotate(-45)" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path d="M19.3,11.2l-7,5.8V13.2l-5.9-5a7,7,0,1,0,12.9,3.7,7.3,7.3,0,0,0,0-.7" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <rect x="3.6" y="4.8" width="17.5" height="17.46" transform="translate(-6 12.7) rotate(-45)" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect x="-5.1" y="-3.9" width="34.9" height="34.92" transform="translate(-6 12.7) rotate(-45)" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>track-promo-logo-grid</title>
+  <g>
+    <g style="clip-path: url(#clip-path)">
+      <g style="clip-path: url(#clip-path-2)">
+        <g style="clip-path: url(#clip-path-2)">
+          <image width="59" height="59" transform="translate(5.2 4.8) scale(0.24)" xlink:href="track-promo-logo-grid1.png"/>
+        </g>
+      </g>
+    </g>
+    <g style="clip-path: url(#clip-path-4)">
+      <g style="clip-path: url(#clip-path-5)">
+        <g style="clip-path: url(#clip-path-6)">
+          <image width="153" height="153" transform="translate(-4.9 -9.2) scale(0.24)" xlink:href="track-promo-logo-grid2.png"/>
+        </g>
+      </g>
+    </g>
+    <g style="clip-path: url(#clip-path-7)">
+      <g style="clip-path: url(#clip-path-8)">
+        <g style="clip-path: url(#clip-path-9)">
+          <image width="208" height="208" transform="translate(-12.5 -11.3) scale(0.24)" xlink:href="track-promo-logo-grid3.png"/>
+        </g>
+      </g>
+    </g>
+    <path d="M27.4,11.6l-.2-.2a1.6,1.6,0,0,0,.2-.8c0-1.2-.8-1.5-1.7-1.5h-3v5.4h3.3c1,0,1.9-.3,1.9-1.7a1.4,1.4,0,0,0-.5-1.2M24,10.2h1.5c.5,0,.6.2.6.6s-.1.6-.6.6H24Zm1.8,3.3H24V12.2h1.8c.7,0,.8.2.8.6s-.1.6-.8.6m11.6-2.2H36.3c-.7,0-.8-.2-.8-.5s.1-.5.8-.5h2.3L39,9.2H36.2c-1,0-1.9.3-1.9,1.6s.9,1.6,1.9,1.6h1.1c.7,0,.8.2.8.6s-.1.6-.8.6H34.3l.4,1.1h2.7c1,0,1.9-.3,1.9-1.6s-.9-1.6-1.9-1.6m6.5-.1H41.4V9.2H40v5.4h1.4V12.3h2.6v2.2h1.4V9.2H43.9Zm10,1.1h2.5V11.2H53.9v-1h2.8V9.2H52.5v5.4h4.3V13.5H53.9Zm3.6,2.2h1.4V12.5h2.5V11.4H58.9V10.2h2.7l.4-1.1H57.5Zm5-5.4-.4,1.1h1.7v4.3h1.4V10.2h1.7V9.2Zm-32.6,0-1.8,5.4h1.4l.4-1.3h2.2l.4,1.3H34L32.1,9.2Zm.4,3,.6-1.9h.3l.6,1.9Zm20.3-1.6s0,1,0,1.5,0,.9,0,.9L47.8,9.2H46.3v5.4h1.1V13.2s0-1,0-1.5,0-.9,0-.9L50,14.5h1.6V9.2H50.5Z" style="fill: #58595b;fill-rule: evenodd"/>
+  </g>
+</svg>

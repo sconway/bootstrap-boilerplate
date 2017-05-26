@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="334 -4158 127.547 127">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Maintain_icon" transform="translate(334 -4158)">
+    <path id="Path_1519" data-name="Path 1519" class="cls-1" d="M0,167.759l23.432.078h.234l13.512,12.653a2.46,2.46,0,0,0,1.6.664l16.129.078a2.892,2.892,0,0,0,1.64-.664L69.67,168.462c.781-.781-.273-.664-.273-.664l-27.337-.117A1.667,1.667,0,0,1,40.381,166V155.5l.078-10.349a1.667,1.667,0,0,1,1.679-1.679l27.337.117s1.093.117.273-.664l-13-12.38a2.46,2.46,0,0,0-1.6-.664L39.014,129.8a2.892,2.892,0,0,0-1.64.664L23.783,143h-.234L0,142.922Z" transform="translate(0 -79.109)"/>
+    <path id="Path_1520" data-name="Path 1520" class="cls-1" d="M247.871,127l-4.764-.039s.156-26.829.156-30.774V12.575c0-.781-.469-7.811-10.974-7.811h-5.35c-.43,0-10.974.156-10.974,7.811V126.922H211.2V12.575C211.239,2.617,221.549,0,226.977,0h5.35c15.543,0,15.738,12.419,15.738,12.575V96.226C248.027,100.132,247.871,127,247.871,127Z" transform="translate(-128.72)"/>
+    <rect id="Rectangle_4825" data-name="Rectangle 4825" class="cls-1" width="52.058" height="4.764" transform="translate(75.489 48.933)"/>
+    <rect id="Rectangle_4826" data-name="Rectangle 4826" class="cls-1" width="60.923" height="4.764" transform="translate(63.422 74.786)"/>
+    <path id="Path_1521" data-name="Path 1521" class="cls-1" d="M128.256,190.911a9.256,9.256,0,1,1,9.256-9.256A9.25,9.25,0,0,1,128.256,190.911Zm0-15.348a6.092,6.092,0,1,0,6.092,6.092A6.1,6.1,0,0,0,128.256,175.563Z" transform="translate(-72.527 -105.073)"/>
+    <rect id="Rectangle_4827" data-name="Rectangle 4827" class="cls-1" width="52.058" height="4.764" transform="translate(73.888 100.639)"/>
+    <rect id="Rectangle_4828" data-name="Rectangle 4828" class="cls-1" width="52.058" height="4.764" transform="translate(73.888 23.08)"/>
+  </g>
+</svg>
